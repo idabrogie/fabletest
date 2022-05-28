@@ -1,0 +1,9 @@
+div.content{
+    display: grid;
+    grid-template-columns: 100px 700px 100px 100px;
+}
+
+p { 
+    color: rgb(67, 136, 90);
+    font-weight: 800;
+}
